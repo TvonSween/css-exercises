@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.odd-number p {
+    background-color: rgb(241, 93, 93);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}   
+
+#two {
+    color: rgb(37, 97, 167);
+    font-size: 36px
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#four {
+    color: rgb(49, 199, 174);
+    font-size: 24px;
+    font-weight: bold;
+
+}
