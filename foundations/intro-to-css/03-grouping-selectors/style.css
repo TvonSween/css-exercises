@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.inverted,
+.yellow {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+    color: black;
+}
+
+/* Take what's common and declare, and then define specific differences in each class below*/
+
